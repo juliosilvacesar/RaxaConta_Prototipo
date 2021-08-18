@@ -1,8 +1,7 @@
-# my_apk
+# Raxa Conta
 
-A new Flutter project.
+Projeto Realizado com Flutter.
 
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
